@@ -1,0 +1,5 @@
+This is my first unix file which i am writing in the virtual machine in my computer
+for creating a file syntax:vi filename.
+To insert in that file press i then insert something and then press esc and then shift+ZZ to come out of that file.
+To copy from one file to another the syntax is: cp source file destination file
+To delete one file syntax:rm filename.
